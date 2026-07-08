@@ -1,139 +1,141 @@
 Built with chatGTP
 
-Homepage/Index
+1.0 Homepage/Index
 
-Menu bar
+1.1 Menu bar
 
-1. I applied the appropiate links to the nav-menus both in desktop and mobile.
+1.1.1 I applied the appropiate links to the nav-menus both in desktop and mobile.
 
-2. I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
+1.1.2 I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
 
-3. I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
+1.1.3 I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
 
-Hero 
+1.2 Hero 
 
-4. I change the image on the hero section.
+1.2.1 I change the image on the hero section.
 
-5. I editted the h2 and paragraph tag on the hero section.
+1.2.2 I editted the h2 and paragraph tag on the hero section.
 
-6. I editted the destination and packages button on the hero section, making it responsive.
+1.2.3 I editted the destination and packages button on the hero section, making it responsive.
 
-Destination section
+1.3 Destination section
 
-7. I editted, the pictures on the destination cards, to a more realistic photos.
+1.3.1 I editted, the pictures on the destination cards, to a more realistic photos.
 
-Why choose us section
+1.4 Why choose us section
 
-8. I made the feature container a flex, flex direction of column justify center and align items center, to make it more responsive for screen sizes of 768px and below.
+1.4.1 I made the feature container a flex, flex direction of column justify center and align items center, to make it more responsive for screen sizes of 768px and below.
 
-Testimonial section
+1.5 Testimonial section
 
-9.I editted the h4/name and country from western countries to African countries and name.
-
-
-Footer
-
-10. I changed the address and loction of our office to Enugu Nigeria.
+1.5.1 editted the h4/name and country from western countries to African countries and name.
 
 
-Destination page
+1.6 Footer
 
-Menu bar
-
-11. I applied the appropiate links to the nav-menus both in desktop and mobile.
-
-12. I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
-
-13. I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
-
-14. I linked the five complementary sub destinations, dropdown that was added to the destination page, to be fully responsive with other already existing pages. 
-
-Hero 
-
-15. I change the image on the hero section.
-
-16. I editted the h2 and paragraph tag on the hero section.
+1.6.1 I changed the address and loction of our office to Enugu Nigeria.
 
 
-Destination section
+2.0 Destination page
 
-17. I labeled my necessary section on my html and css.
+2.1 Menu bar
 
+2.1.1 I applied the appropiate links to the nav-menus both in desktop and mobile.
 
-18. I applied more relevant images to the respective destination cards in the destination section.
+2.1.2 I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
 
-Footer
+2.1.3 I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
 
-19. I changed the address and loction of our office to Enugu Nigeria.
+2.1.4 I linked the five complementary sub destinations, dropdown that was added to the destination page, to be fully responsive with other already existing pages. 
 
+2.2 Hero 
 
-20. I had to use the destination tamplate, but editted the images and text and location etc. for other sub destinations,. 
+2.2.1 I change the image on the hero section.
 
-Packages Page
-
-Menu bar
-
-21. I applied the appropiate links to the nav-menus both in desktop and mobile.
-
-22. I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
-
-23. I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
-
-Hero 
-
-24. I change the image on the hero section.
-
-25. I editted the h2 and paragraph tag on the hero section.
-
-Package section
-
-26. I added a padding of 10px
-
-27. I also tried making the packge-grid col 1 and template-row of auto but wasn't responding.
-
-28. So, i resized the package card for screen sizes below 768px, I gave it a width of fit-content on package card, a font size of 1.2rem its h3 and also a price of 1.2rem.
+2.2.2 I editted the h2 and paragraph tag on the hero section.
 
 
-29. The font size i made a 
+2.3 Destination section
+
+2.3.1 I labeled my necessary section on my html and css.
+
+
+2.3.2 I applied more relevant images to the respective destination cards in the destination section.
+
+2.4 Footer
+
+2.4.1 I changed the address and loction of our office to Enugu Nigeria.
+
+
+2.4.2 I had to use the destination tamplate, but editted the images and text and location etc. for other sub destinations,. 
+
+3.0 Packages Page
+
+3.1 Menu bar
+
+3.1.1 I applied the appropiate links to the nav-menus both in desktop and mobile.
+
+3.1.2 I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
+
+3.1.3 I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
+
+3.2 Hero 
+
+3.2.1 I change the image on the hero section.
+
+3.2.2 I editted the h2 and paragraph tag on the hero section.
+
+3.3 Package section
+
+3.3.1 I added a padding of 10px
+
+3.3.2 I also tried making the packge-grid col 1 and template-row of auto but wasn't responding.
+
+3.3.3 So, i resized the package card for screen sizes below 768px, I gave it a width of fit-content on package card, a font size of 1.2rem its h3 and also a price of 1.2rem.
+
+
+3.3.4 The font size i made a 
 I then added display grid, justify-content of center and align-items of center, to properly fit in screen sizes lesser than 768px.
 
-Footer
+3.4 Footer
 
-30. I changed the address and loction of our office to Enugu Nigeria.
+3.4.1 I changed the address and loction of our office to Enugu Nigeria.
 
-About Page
+4.0 About Page
 
-Menu bar
+4.1 Menu bar
 
-31. I applied the appropiate links to the nav-menus both in desktop and mobile.
+4.1.1 I applied the appropiate links to the nav-menus both in desktop and mobile.
 
-32. I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
+4.1.2 I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
 
-33. I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
+4.1.3 I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
 
-Hero 
+4.2 Hero 
 
-34. I change the image on the hero section.
+4.2.1 I change the image on the hero section.
 
-35. I editted the h2 and paragraph tag on the hero section.
+4.2.2 I editted the h2 and paragraph tag on the hero section.
 
-Footer
+4.3 Footer
 
-36. gI changed the address and loction of our office to Enugu Nigeria.
+4.3.1 I changed the address and loction of our office to Enugu Nigeria.
 
-Contact Us
+5.0 Contact Us
 
-37. I applied the appropiate links to the nav-menus both in desktop and mobile.
+5.1 Menu Bar
 
-38. I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
+5.1.1 I applied the appropiate links to the nav-menus both in desktop and mobile.
 
-39. I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
+5.1.2 I made the menu bar sticky, z-index of 1000, and a top of 0 to the header.
 
-Hero 
+5.1.3 I added a z-index to the hamburger dropdown/mobile menu to make it visible when clicked on.
 
-40. I change the image on the hero section.
+5.2 Hero 
 
-41. I editted the h2 and paragraph tag on the hero section.
+5.2.1 I change the image on the hero section.
+
+5.2.2 I editted the h2 and paragraph tag on the hero section.
 
 
 
