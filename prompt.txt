@@ -1,0 +1,49 @@
+Nice let start from the home page, nav-menu lets make it a width of 100%, and a height of 4.5rem choose a suitable colour for the menu bar, Make it change to a hamburger bar for screen sizes less than 768px, make it media responsive. Also include the name VoyageSphere on the top left hand corner of the menu bar, with a logo. Separate the html and css fill
+
+make the hamburger button toggle when hovered on to display home, destination, packages , about and contact us
+
+Lets create a hero section with a background image of 70% height and 100% width a h2 heading explore the world beyond your imagination, a subheading of discover breathtaking destinations, customized travel packages and unforgettable adventures with VoyageSphere, and two call to action button starting explore our destinations and view packages, make it media responsive.
+
+Lets create a featured destination section, using a grid, to display four destination cards which includes image, destination name a short description and amount in dollars
+
+Let create a why choose us section for voyagesphere, which include travel expert, Affordable packages etc. make it media responsive.
+
+create a testimonial section and a newsletter section that is media responsive.
+
+destination
+
+Let generate 9 awesome travel destinations cards and give a brief description about the place, A learn more button, prices and most importantly a beautiful image of the location.
+
+packages
+
+Gpt lets create travel package cards of four categories, budget, standard, premium and luxury, each package should have a duration, prices, features and a call to action button. Lets make it mobile responsive.
+
+
+About
+
+Lets create an about page for voyagesphere
+
+three paragraph history and mission of voyagesphere 
+
+Why travel with us our core values and expertise
+
+Statistics section e.g. 500+ happy travelers and over 50+ destination.
+
+Contact us
+
+Lets create a contact page
+
+The contact page should have two layout one for form the order for contact info.
+
+The form should have a label and input for full name, email, phone, travel date, number of travelers, budget range, preferred destination (a dropdown show 9 of our major cities), budget range (also a dropdown showing four of our different ranges), and a special request (A text area), finally a submit button
+
+contact information should contain office address(10 Okpara Avenue Enugu), phone and email business hours, social media links and a google map of our address
+
+
+
+create a footer.
+
+I want you to help me add complementary dropdowns to nav-bars, in of my voyagesphere page At least extra 5 complementary dropdowns on the already built pages Let me send you the html folder.
+
+
+Just add the dropdown of destination only, do not include the package dropdown.
